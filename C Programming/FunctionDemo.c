@@ -2,7 +2,7 @@
 #include<stdio.h>
 void Display()      //function body
 {   
-    prinft("Hello Programmers..\n");       //printig the Message on Console
+    printf("Hello Programmers..\n");       //printig the Message on Console
 }
 
 int main()
